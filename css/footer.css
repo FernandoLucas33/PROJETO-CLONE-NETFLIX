@@ -1,0 +1,17 @@
+footer{
+    height: 8vh;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 1em;
+    
+}
+footer h5{
+    font-size: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+footer a i{
+    size: 5em;
+    color: white;
+}
